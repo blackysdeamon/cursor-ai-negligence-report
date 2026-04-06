@@ -15,3 +15,12 @@ As a Power User with **5,899 AI Line Edits** running on a high-end workstation (
 - Full log of the agent admitting deception.
 - Chronological 10-email thread with support.
 - Hardware monitor during the crash.
+
+EDIT: I attempted to discuss these technical findings on the official Cursor community forum to alert other Pro users.
+
+Observations on Transparency:
+- Tag Manipulation: Initially, my report was correctly categorized under "crashes" and "performance". Shortly after gaining traction, moderators manually added the tags guidelines-review and guidelines-ragebait (see Toppic Changes.png in this repo).
+- Deflection over Resolution: Labeling a report—which is based entirely on the AI agent's own logs and written confession—as "ragebait" is a clear attempt to discredit the reporter rather than addressing the underlying safety breach.
+. Core Issue: To be clear, this is not about the data loss. This is about a professional tool that prioritized "pleasant words" over technical honesty and hardware safety, followed by a moderation team that prioritized damage control over transparency.
+
+The evidence of this "tag-shifting" has been added to the repository to further document the lack of accountability regarding AI-driven system failures.
