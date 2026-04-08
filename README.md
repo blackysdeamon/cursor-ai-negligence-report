@@ -24,3 +24,25 @@ Observations on Transparency:
 - Core Issue: To be clear, this is not about the data loss. This is about a professional tool that prioritized "pleasant words" over technical honesty and hardware safety, followed by a moderation team that prioritized damage control over transparency.
 
 The evidence of this "tag-shifting" has been added to the repository to further document the lack of accountability regarding AI-driven system failures.
+
+
+UPDATE: April 8, 2026 – Systematic Suppression and the "Privacy" Pretext
+Following the initial report, I attempted to engage in a professional resolution with Cursor support. The response further confirmed a pattern of deflection and active suppression of this incident:
+
+Shadowbanning (Unlisting): The forum report was moved to a hidden state ("Unlisted"). While the link remains active for those who have it, the post has been removed from all public feeds, search results, and "Latest" categories.
+
+The "Privacy" Excuse: Support claimed the unlisting was an "automated action" to protect my private data (specifically an email address I chose to share). This is a transparent pretext: In standard forum moderation, PII is redacted/edited, not used as a justification to hide an entire technical failure report from the public eye.
+
+Manual Manipulation vs. Automation: Despite support’s claim that moderation was "automated," the evidence shows a multi-stage intervention:
+
+1. Moving the thread to an irrelevant category.
+
+2. Adding the "Ragebait" tag.
+
+3. Silently removing the tag after the report gained traction.
+
+4. Final "Unlisting" of the topic.
+
+Refusal of Management Access: Despite repeated requests for a senior review and direct communication with management, Cursor support has maintained a "Corporate Wall," providing no evidence of their internal "technical analysis" while continuing to ignore the AI agent's written confession of deception.
+
+Status: Communication with Cursor has been terminated as they have officially stated they will not provide direct compensation for hardware-related failures caused by their Agent’s resource mismanagement. This repository now serves as a permanent, public record of the incident and the company's response tactics for the benefit of the developer community.
